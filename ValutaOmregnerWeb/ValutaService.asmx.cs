@@ -9,7 +9,7 @@ namespace ValutaOmregnerWeb
     /// <summary>
     /// Summary description for ValutaService
     /// </summary>
-    [WebService(Namespace = "http://fuckgrill.retard/")]
+    [WebService(Namespace = "http://peterc.pro/")]
     [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
     [System.ComponentModel.ToolboxItem(false)]
     // To allow this Web Service to be called from script, using ASP.NET AJAX, uncomment the following line. 
